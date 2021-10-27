@@ -1,8 +1,11 @@
 # Stock_Prediction
-This repository is about Predicting Stock Price of Infosys with atmost accuracy using Linear Regression.
 
-Here I've used API(Application Programming Interface) from twelvedata.com so that whenever our Linear Regression model tries to predicts the values. We shall be working with real world updated data. 
+## Project Overview
+This repository is about Predicting Stock Price of Infosys with atmost accuracy using Linear Regression and Twelvedata API.
 
-If you wish to run the program, first you'll need a api key from twelvedata.com, You can get your free API key on twelvedata.com.
-I'll be disabling my api key for security purposes.
-Download the .ipynb file and run in your colab notebook.
+## How to Use
+1) First, you need an Twelvedata.com. You can sign up [here](https://twelvedata.com/register
+2) Click "generate new key" on your portfolio page to attain a key
+3) Put the keys into the 'Infosys_Stock_Prediction_using_Linear_Regression.ipynb' file in this repository<br>
+4) Run the program
+
